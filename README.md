@@ -4,7 +4,7 @@ The idea is to take atleast 100 of realtime comments posted by the different use
 The link of the video is https://www.youtube.com/watch?v=621oD2zBSbI&t=11s. 
 It is a very simple implementation on the Sentiment Analysis which is one of the techniques used in Natural Language Processing.
 
-I have implemented it into three parts: \n
+I have implemented it into three parts: 
 Part 1: Scrapping the youtube comments 
         - Visit https://medium.com/analytics-vidhya/sentiment-analysis-of-a-youtube-video-63ced6b7b1c4 to understand each steps in detail.
 Part 2: Cleansing the data 
